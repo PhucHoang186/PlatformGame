@@ -1,0 +1,4 @@
+WASD to move.
+Left mouse to shoot.
+Can activate dash ability in the editor.("CanDash" =true property)
+Gameplay obtain a key and open a door(press E).
