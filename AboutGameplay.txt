@@ -1,3 +1,4 @@
+Please open MenuScene and press play to start game.
 WASD to move.
 Left mouse to shoot.
 Can activate dash ability in the editor.("CanDash" =true property)
