@@ -413,13 +413,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2ce2bb0f55ea5147a27b7c90db066a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  WaitTime: 2
-  GameIsPaused: 0
-  PauseMenu: {fileID: 0}
-  OptionsMenu: {fileID: 0}
+  waitTime: 2
+  gameIsPaused: 0
+  pauseMenu: {fileID: 0}
+  optionsMenu: {fileID: 0}
   ani: {fileID: 1685084435}
-  isloss: 0
-  Wait: 0
+  isLoss: 0
 --- !u!4 &340185398
 Transform:
   m_ObjectHideFlags: 0
@@ -8123,12 +8122,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
